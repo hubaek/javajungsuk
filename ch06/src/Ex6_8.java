@@ -14,7 +14,7 @@ class Ex6_8 {
 		
 		tmp.x = c.x; // d.x의 값을 tmp.x에 복사한다.
 		
-		return tmp; // 복사한 객체의 주소를 반환한다.
+		return tmp; // 복사한 객체의 주소를 반환한다. // commit test
 	}
 
 }
